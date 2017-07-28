@@ -1,0 +1,10 @@
+wget http://waspsystem.einstein.yu.edu/wsfile/get/file/F8393993-BB15-4027-A8F5-F8DAFCB5D824/J455_BC8P19ACXX_Lane4_AGGCAGAA-CTCTCTAT_HPNE.1_val_1.fq.gz
+wget http://waspsystem.einstein.yu.edu/wsfile/get/file/DCEE1D23-B598-44EE-83D0-5C5EBEC8E437/J455_BC8P19ACXX_Lane4_AGGCAGAA-CTCTCTAT_HPNE.2_val_2.fq.gz
+wget http://waspsystem.einstein.yu.edu/wsfile/get/file/E584F273-7DC8-4250-B1AF-E72F74A920D6/J455_BC8P19ACXX_Lane4_TCCTGAGC-AGAGTAGA_JD13D.1_val_1.fq.gz
+wget http://waspsystem.einstein.yu.edu/wsfile/get/file/45C3D671-AE99-42BE-B947-02F97404AADD/J455_BC8P19ACXX_Lane4_TCCTGAGC-AGAGTAGA_JD13D.2_val_2.fq.gz
+wget http://waspsystem.einstein.yu.edu/wsfile/get/file/82E79983-BD9E-4047-8650-A332197E5AEA/J455_BC8P19ACXX_Lane4_AGGCAGAA-CTCTCTAT_HPNE.1_val_1_fastqc.html
+wget http://waspsystem.einstein.yu.edu/wsfile/get/file/AABF0427-112C-49A0-A87A-0F4F1BBED9FF/J455_BC8P19ACXX_Lane4_AGGCAGAA-CTCTCTAT_HPNE.2_val_2_fastqc.html
+wget http://waspsystem.einstein.yu.edu/wsfile/get/file/9352EF19-6099-4513-8E90-FB658070C563/J455_BC8P19ACXX_Lane4_TCCTGAGC-AGAGTAGA_JD13D.1_val_1_fastqc.html
+wget http://waspsystem.einstein.yu.edu/wsfile/get/file/E8FA916F-7A70-41EE-898A-EB9A32E0FE1F/J455_BC8P19ACXX_Lane4_TCCTGAGC-AGAGTAGA_JD13D.2_val_2_fastqc.html
+wget http://waspsystem.einstein.yu.edu/wsfile/get/file/A251EADA-1529-4880-B63E-6E616A5D76D3/J455_BC8P19ACXX_Lane4_AGGCAGAA-CTCTCTAT_HPNE.1_val_1_screen.png
+wget http://waspsystem.einstein.yu.edu/wsfile/get/file/2C00DBA4-EAE5-4357-877C-8629BA783269/J455_BC8P19ACXX_Lane4_TCCTGAGC-AGAGTAGA_JD13D.1_val_1_screen.png
